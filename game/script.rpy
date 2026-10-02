@@ -2017,9 +2017,9 @@ label start:
 
     window show
 
-    # These display lines of dialogue.
-
     e "You've just witnessed Breakup. Click to clear the scene."
+
+    window hide
 
     show expression breakup("silviesprite", 7, False, 0) as example at m
 
