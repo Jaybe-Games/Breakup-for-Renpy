@@ -1,0 +1,10 @@
+renpy.dissolve renpy.dissolve
+renpy.geometry renpy.texture
+renpy.texture breakup.gpu renpy.texture breakup.gpu
+renpy.texture breakup.gpu
+renpy.ftl
+breakup.gpu renpy.geometry renpy.texture
+renpy.dissolve renpy.geometry
+renpy.geometry renpy.solid
+renpy.solid
+renpy.texture
